@@ -2,7 +2,7 @@
 <#     
        .NOTES
        ==============================================================================
-       Created on:         2025/02/17 
+       Created on:         2025/02/12 
        Created by:         Drago Petrovic
        Organization:       MSB365.blog
        Filename:           Get-MeetingRoomUtilization.ps1
@@ -43,7 +43,7 @@
        WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
        ===========================================================================
        .CHANGE LOG
-             V1.00, 2025/02/17 - DrPe - Initial version
+             V1.00, 2025/02/12 - DrPe - Initial version
 
              
 			 
